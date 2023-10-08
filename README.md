@@ -12,17 +12,17 @@ Display news from various sources.
 Ability to read news.
 Current Version
 
-[//]: # (![]&#40;D:\photo\screen1.jpg&#41;,)
+![](D:\photo\screen1.jpg),
 
-[//]: # (![]&#40;D:\photo\screen2.jpg&#41;,)
+![](D:\photo\screen2.jpg),
 
-[//]: # (![]&#40;D:\photo\screen3.jpg&#41;,)
+![](D:\photo\screen3.jpg),
 
-[//]: # (![]&#40;D:\photo\screen4.jpg&#41;,)
+![](D:\photo\screen4.jpg),
 
-[//]: # (![]&#40;D:\photo\screen5.jpg&#41;,)
+![](D:\photo\screen5.jpg),
 
-[//]: # (![]&#40;D:\photo\screen6.jpg&#41;,)
+![](D:\photo\screen6.jpg),
 Thanks
 Thank you for using News App.
 
