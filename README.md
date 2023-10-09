@@ -23,7 +23,7 @@ Current Version
 ![](D:\photo\screen5.jpg),
 
 ![](D:\photo\screen6.jpg),
-![CHEESE!](![screen1.jpg](screen1.jpg))
+![CHEESE!](D:\photo\screen1.jpg)
 Thanks
 Thank you for using News App.
 
