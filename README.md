@@ -20,6 +20,6 @@ Ability to read news.
 ![screen6](https://github.com/MustafaAbdulqawi/news_app/assets/130108873/a179b8fd-af1d-403e-b3eb-8786e8e0ad73)
 
 
-Thanks
+
 Thank you for using News App.
 
