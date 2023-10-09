@@ -11,19 +11,8 @@ Features
 Display news from various sources.
 Ability to read news.
 Current Version
+![screen1](https://github.com/MustafaAbdulqawi/news_app/assets/130108873/95d023f4-9963-49d2-b753-ee426390be9f)
 
-![](D:\photo\screen1.jpg),
-
-![](D:\photo\screen2.jpg),
-
-![](D:\photo\screen3.jpg),
-
-![](D:\photo\screen4.jpg),
-
-![](D:\photo\screen5.jpg),
-
-![](D:\photo\screen6.jpg),
-![CHEESE!](D:\photo\screen1.jpg)
 Thanks
 Thank you for using News App.
 
